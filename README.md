@@ -1,4 +1,4 @@
-""" Author: Terry W.
+""" Author: Terry W. - from the University of Illinois.
 """
 # freeCodeCamp123
 My first repository for my freeCodeCamp project
